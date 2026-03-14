@@ -1,0 +1,1 @@
+Air Quality Index (AQI) Prediction Using Deep Learning with Seasonal Decomposition is a data-driven project that forecasts air pollution levels using deep learning techniques. It analyzes historical environmental data and seasonal patterns to improve prediction accuracy, helping support better environmental monitoring and decision-making. 🌍
